@@ -1,0 +1,13 @@
+{
+  "name": "webusb-serialport",
+  "version": "0.0.1",
+  "description": "Access serial ports with JavaScript via WebUSB",
+  "main": "index.js",
+  "repository": "https://github.com/DVSoftware/webusb-serialport",
+  "author": "dvsoftware@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@serialport/stream": "^8.0.6",
+    "serialport": "^8.0.7"
+  }
+}
